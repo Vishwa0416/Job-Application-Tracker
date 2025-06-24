@@ -16,16 +16,16 @@ Easily add, edit, and delete job applications with key information such as compa
 ## 📊 Application Status Summary
 Visual breakdown of application statuses using intuitive charts for quick insights.
 
-🗂️ Filter & Sort Functionality
+## 🗂️ Filter & Sort Functionality
 Search, filter, and sort applications based on company, status, or other fields.
 
-💡 Simple, Streamlined Interface
+## 💡 Simple, Streamlined Interface
 Built with Streamlit to ensure a smooth, minimal, and responsive user experience.
 
-🧰 Modular and Extensible Codebase
+## 🧰 Modular and Extensible Codebase
 Easily extend the application to add new features like resume uploads, interview notes, or reminders.
 
-🧰 Technologies Used
+## 🧰 Technologies Used
 Technology	Purpose
 Streamlit	Frontend web application framework
 Pandas	Data storage and manipulation
