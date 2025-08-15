@@ -1,7 +1,7 @@
 # 💼 Job Application Tracker with Streamlit
 An intuitive, Streamlit-powered web application designed to help job seekers efficiently track, manage, and organize their job applications in one place. Built with Python, Streamlit, and Pandas, this tool simplifies the job hunt process by providing an interactive dashboard for monitoring application progress, statuses, and key details.
 
-# 🔍 Overview
+## 🔍 Overview
 Searching for a job can be overwhelming, countless applications, different stages, and scattered notes. The Job Application Tracker streamlines this process by offering a centralized platform to:
 
 ✅ Record and manage job applications
