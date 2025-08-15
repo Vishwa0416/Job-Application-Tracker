@@ -9,7 +9,7 @@ Searching for a job can be overwhelming, countless applications, different stage
 ✅ Store company details, job titles, and application dates
 ✅ Visualize application progress with interactive charts
 
-# 🚀 Key Features
+## 🚀 Key Features
 ### 📂 Job Application Management
 Easily add, edit, and delete job applications with key information such as company name, job title, application date, and status.
 
@@ -22,29 +22,29 @@ Search, filter, and sort applications based on company, status, or other fields.
 ### 💡 Simple, Streamlined Interface
 Built with Streamlit to ensure a smooth, minimal, and responsive user experience.
 
-# 🧰 Modular and Extensible Codebase
+## 🧰 Modular and Extensible Codebase
 Easily extend the application to add new features like resume uploads, interview notes, or reminders.
 
-# 🧰 Technologies Used
+## 🧰 Technologies Used
 Technology	Purpose
 Streamlit	Frontend web application framework
 Pandas	Data storage and manipulation
 Python	Backend and application logic
 
-# 📂 Getting Started
+## 📂 Getting Started
 To run the app locally:
 
 bash
 Copy
 Edit
-# Clone the repository
+## Clone the repository
 git clone https://github.com/your-username/job-application-tracker
 cd job-application-tracker
 
-# Install dependencies
+## Install dependencies
 pip install -r requirements.txt
 
-# Run the Streamlit app
+## Run the Streamlit app
 streamlit run app.py
 Requirements:
 
@@ -54,7 +54,7 @@ Streamlit
 
 Pandas
 
-# 🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome! Feel free to:
 
 ✅ Add new features (e.g., reminder system, data export)
@@ -63,14 +63,14 @@ Contributions are welcome! Feel free to:
 
 Open an issue or submit a pull request to contribute.
 
-# 📌 Future Improvements
+## 📌 Future Improvements
 ✔️ Email reminders for follow-ups
 ✔️ Resume & Cover Letter uploads
 ✔️ Enhanced data visualizations
 ✔️ Export applications to CSV or PDF
 ✔️ Cloud deployment for easy access
 
-📝 License
+## 📝 License
 This project is open-source and available under the MIT License.
 
 Empower your job search — Stay organized, stay motivated!
