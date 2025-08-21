@@ -37,9 +37,6 @@ To run the app locally:
 bash
 Copy
 Edit
-## Clone the repository
-git clone https://github.com/your-username/job-application-tracker
-cd job-application-tracker
 
 ## Install dependencies
 pip install -r requirements.txt
