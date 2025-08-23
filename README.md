@@ -31,9 +31,6 @@ Streamlit	Frontend web application framework
 Pandas	Data storage and manipulation
 Python	Backend and application logic
 
-## 📂 Getting Started
-To run the app locally:
-
 bash
 Copy
 Edit
