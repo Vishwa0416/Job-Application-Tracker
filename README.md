@@ -31,8 +31,6 @@ Streamlit	Frontend web application framework
 Pandas	Data storage and manipulation
 Python	Backend and application logic
 
-bash
-
 ## Install dependencies
 pip install -r requirements.txt
 
