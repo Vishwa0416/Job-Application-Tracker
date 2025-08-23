@@ -32,8 +32,6 @@ Pandas	Data storage and manipulation
 Python	Backend and application logic
 
 bash
-Copy
-Edit
 
 ## Install dependencies
 pip install -r requirements.txt
